@@ -1,10 +1,10 @@
-# # Week3
-# # This week we will work on :
-# # Working With Strings
+# # # # Week3
+# # # # This week we will work on :
+# # # # Working With Strings
 
 
-# # 1.   Working With Numbers
-# # 2.   Getting Input From Users
+# # # # 1.   Working With Numbers
+# # # # 2.   Getting Input From Users
 
 
 
@@ -75,7 +75,7 @@ print (6/2)
 print (7%4) # remainder of 7 divided by 4
 # powers
 print (2**3) # 2 to the power of 3
-# get max and min number
+# # # get max and min number
 print ("the max of 2 and 3 is",max (2,3))
 print ("the min of 2 and 3 is",min (2,3))
 #round a number
@@ -86,7 +86,7 @@ print ("the absolute value of -3 is",abs(-3))
 #order of operations
 print ("2 + 10 * 10 + 3 is", (2 + 10 * 10 + 3))
 
-#to do more you need special import from math library
+# to do more you need special import from math library
 
 from math import *
 
@@ -117,3 +117,17 @@ print (max(num1, num2))
 print (num1 % num2)
 #round number
 print (round(num1))
+
+num1 = int(input ("type a number "))
+num2 = int(input ("type another number "))
+
+print (num1 - num2)
+print (num1 / num2)
+print (min,num1 - num2)
+print (abs,num1 - num2)
+print (floor,(num1))
+print (ceil,(num1))
+print (num1 ** num2)
+
+
+
