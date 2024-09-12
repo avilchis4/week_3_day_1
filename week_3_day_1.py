@@ -56,3 +56,11 @@ print (f"The date of birth is {date_of_birth} and the number is {number2} and th
 
 # [name] liked to hum the song [song] while coding. It was so annoying that their teammates would throw [food] until [name] would stop singing.
 print (f"{name} like to hum the {song} while coding. It was so annoying that their teammates would throw {food} until {name} would stop singing. ")
+
+# last_name
+# email_address
+# percent
+# variable_name
+# zero
+# list # this is a keyword in python
+# creating valid names
